@@ -11,7 +11,12 @@ header{
 }
 main{
     display: flex;
+    max-width: 800px;
+    margin: 20px;
+    padding: 15px;
 }
 article{
-    background-color: aquamarine(0, 255, 234);
+    background-color: white;
+    color: black;
+    text-align: justify;
 }
